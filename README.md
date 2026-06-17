@@ -1,73 +1,71 @@
-# C Programming Learning Journey 🚀
+<h1 align="center">🚀 C Programming Learning Journey 🚀</h1>
 
-This repository contains all the C programming programs and exercises that I am practicing while learning C language.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+C+Programming...;Building+Logic+Step+by+Step...;Practice+Makes+Perfect!;Welcome+to+My+Coding+Journey!" alt="Typing SVG" />
+</p>
 
-## 📚 Topics Covered
+---
 
-- Basic Input/Output
-- Variables and Data Types
-- Operators
-- Conditional Statements (if, if-else, switch)
-- Loops (for, while, do-while)
-- Arrays
-- Strings
-- Functions
-- Pointers
-- Structures
-- File Handling
-- Pattern Programs
-- Matrix Programs
-- Problem Solving Programs
+## 👨‍💻 About This Repository
 
-## 🎯 Purpose
+📚 This repository contains all the C programs that I write while learning and practicing C Programming.
 
-The purpose of this repository is to:
+🎯 My goal is to build strong programming fundamentals and improve problem-solving skills through consistent practice.
 
-- Practice C programming concepts.
-- Improve problem-solving skills.
-- Track my learning progress.
-- Build a strong foundation in programming.
+---
 
-## 📂 Repository Structure
+## 🛠️ Topics I'm Learning
 
+- ✅ Basic Input/Output
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Conditional Statements
+- ✅ Loops
+- ✅ Arrays
+- ✅ Strings
+- ✅ Functions
+- 🔄 Pointers
+- 🔄 Structures
+- 🔄 File Handling
+
+---
+
+## 📈 Learning Progress
+
+```text
+C Programming Roadmap
+
+Basics           ██████████ 100%
+Conditions       ██████████ 100%
+Loops            ██████████ 100%
+Arrays           ████████░░ 80%
+Strings          ███████░░░ 70%
+Functions        ██████░░░░ 60%
+Pointers         ███░░░░░░░ 30%
+File Handling    ░░░░░░░░░░ 0%
 ```
-C-Learning/
-│
-├── Basics/
-├── Loops/
-├── Arrays/
-├── Strings/
-├── Functions/
-├── Pointers/
-├── Structures/
-├── FileHandling/
-└── PracticePrograms/
-```
 
-## 🛠️ Compiler
+---
 
-Programs can be compiled using:
-
-- GCC
-- Turbo C
-- VS Code with GCC Extension
-
-Example:
+## ⚙️ Compile & Run
 
 ```bash
 gcc program.c -o program
 ./program
 ```
 
-## 📈 Current Status
+---
 
-✅ Learning and practicing C programming regularly.
+## 📊 GitHub Stats
 
-More programs will be added as I continue my learning journey.
-
-## 👨‍💻 Author
-
-Tarun Rawal
+![Profile Views](https://komarev.com/ghpvc/?username-RAWAL TARUNE&color=blue)
 
 ---
-⭐ Feel free to explore the programs and follow my learning progress.
+
+## 🌱 Current Goal
+
+> Learn C Programming completely and build a strong foundation for Data Structures & Algorithms.
+
+---
+
+<h3 align="center">✨ Keep Learning • Keep Coding • Keep Growing ✨</h3>
