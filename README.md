@@ -1,71 +1,102 @@
-<h1 align="center">🚀 C Programming Learning Journey 🚀</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+C+Programming...;Building+Logic+Step+by+Step...;Practice+Makes+Perfect!;Welcome+to+My+Coding+Journey!" alt="Typing SVG" />
-</p>
+# 💻 C Language Learning Repository
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Welcome+to+my+C+Programming+Journey!;Learning+One+Program+at+a+Time...;Code.+Debug.+Learn.+Repeat.;Future+Software+Developer+%F0%9F%9A%80" />
 
-## 👨‍💻 About This Repository
-
-📚 This repository contains all the C programs that I write while learning and practicing C Programming.
-
-🎯 My goal is to build strong programming fundamentals and improve problem-solving skills through consistent practice.
+</div>
 
 ---
 
-## 🛠️ Topics I'm Learning
+## 🎯 About
 
-- ✅ Basic Input/Output
-- ✅ Variables & Data Types
-- ✅ Operators
-- ✅ Conditional Statements
-- ✅ Loops
-- ✅ Arrays
-- ✅ Strings
-- ✅ Functions
-- 🔄 Pointers
-- 🔄 Structures
-- 🔄 File Handling
+This repository contains all the programs, exercises, and practice questions that I solve while learning **C Programming**.
+
+Every commit represents a step forward in my coding journey.
 
 ---
 
-## 📈 Learning Progress
+## 🚀 What You'll Find Here
+
+🟢 Basic Programs
+
+🟢 Conditional Statements
+
+🟢 Loops
+
+🟢 Arrays
+
+🟢 Strings
+
+🟢 Functions
+
+🟢 Pointers
+
+🟢 Structures
+
+🟢 File Handling
+
+🟢 Mini Practice Projects
+
+---
+
+## 📚 Learning Tracker
+
+| Topic | Status |
+|---------|---------|
+| Basics | ✅ Completed |
+| If-Else | ✅ Completed |
+| Loops | ✅ Completed |
+| Arrays | 🔄 In Progress |
+| Strings | 🔄 In Progress |
+| Functions | 🔄 In Progress |
+| Pointers | ⏳ Coming Soon |
+| Structures | ⏳ Coming Soon |
+
+---
+
+## 🔥 Daily Coding Formula
+
+```c
+while(success != true)
+{
+    learn();
+    practice();
+    debug();
+    repeat();
+}
+```
+
+---
+
+## 📂 Repository Structure
 
 ```text
-C Programming Roadmap
-
-Basics           ██████████ 100%
-Conditions       ██████████ 100%
-Loops            ██████████ 100%
-Arrays           ████████░░ 80%
-Strings          ███████░░░ 70%
-Functions        ██████░░░░ 60%
-Pointers         ███░░░░░░░ 30%
-File Handling    ░░░░░░░░░░ 0%
+📦 C-Learning
+ ┣ 📂 Basics
+ ┣ 📂 Conditions
+ ┣ 📂 Loops
+ ┣ 📂 Arrays
+ ┣ 📂 Strings
+ ┣ 📂 Functions
+ ┣ 📂 Pointers
+ ┗ 📂 Practice Programs
 ```
 
 ---
 
-## ⚙️ Compile & Run
+## 💡 Motivation
 
-```bash
-gcc program.c -o program
-./program
-```
+> "Programming isn't about what you know;
+> it's about what you can figure out."
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username-RAWAL TARUNE&color=blue)
+### ⭐ Learning Never Stops ⭐
 
----
+🚀 Started with Hello World  
+🎯 Moving Towards Mastering C
 
-## 🌱 Current Goal
-
-> Learn C Programming completely and build a strong foundation for Data Structures & Algorithms.
-
----
-
-<h3 align="center">✨ Keep Learning • Keep Coding • Keep Growing ✨</h3>
+</div>
