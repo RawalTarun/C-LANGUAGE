@@ -2,6 +2,7 @@
 
 int main()
 {
+    // ROW & COLUMN SIZE//
     int row, column;
 
     printf("ENTER ROW:");
@@ -10,7 +11,7 @@ int main()
     scanf("%d", &column);
 
     printf("\n\n");
-
+    // ROW & COLUMN ELEMENTS INPUT//
     int A[row][column];
     for (int i = 0; i < row; i++)
     {
@@ -20,28 +21,42 @@ int main()
             scanf("%d", &A[i][j]);
         }
     }
-    int S[row], s[column];
-    for (int i = 0; i < row; i++)
-        S[i] = 0;
-    for (int j = 0; j < column; j++)
-        s[j] = 0;
+    // SELECTED ROW SUM//
+    int r, c, sum = 0;
 
-    for (int i = 0; i < row; i++)
+    printf("ENTER ROW NUMBER: ");
+    scanf("%d", &r);
 
+    if (r >= 0 && r < row)
     {
+
         for (int j = 0; j < column; j++)
         {
-            S[i] += A[i][j];
-            s[j] += A[i][j];
+            sum += A[r][j];
         }
-    }
 
-    for (int i = 0; i < row; i++)
-    {
-        printf("ROW SUM IS:%d\n", S[i]);
+        printf("SUM OF ROW %d = %d", r, sum);
+        printf("\n\n");
     }
-    for (int j = 0; j < column; j++)
+    else
+        printf("THIS IS INVALID CHOICE!!\n\n");
+
+    // SELECTED COLUMN SUM//
+    sum = 0;
+
+    printf("ENTER COLUMN NUMBER: ");
+    scanf("%d", &c);
+
+    if (c >= 0 && c < column)
     {
-        printf("COLUMN SUM IS:%d\n", s[j]);
+
+        for (int i = 0; i < row; i++)
+        {
+            sum += A[i][c];
+        }
+
+        printf("SUM OF COLUMN %d = %d", c, sum);
     }
+    else
+        printf("THIS IS INVALID CHOICE!!");
 }
