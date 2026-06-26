@@ -1,18 +1,21 @@
-#include<stdio.h>
+#include <stdio.h>
 
-main()
+void main()
 {
-	int a,b;
-	
+	int a, b;
+
 	printf("enter starting year:");
-	scanf("%d",&a);
-	
+	scanf("%d", &a);
+
 	printf("enter ending year:");
-	scanf("%d",&b);
-	
-	while(a<=b){
-	if(a%4==0){
-	printf("%d\t",a,b);}       
-	 a++;	}
-	
+	scanf("%d", &b);
+
+	while (a <= b)
+	{
+		if (a % 4 == 0)
+		{
+			printf("%d\t", a, b);
+		}
+		a++;
+	}
 }

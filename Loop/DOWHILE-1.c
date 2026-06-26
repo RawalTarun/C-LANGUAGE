@@ -1,11 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 
-main()
+void main()
 {
-	int a=1;
-	
+	int a = 1;
+
 	do
-	{  printf("%d\ts",a++);
-	
-	}while(a<=10);	
+	{
+		printf("%d\t", a++);
+
+	} while (a <= 10);
 }

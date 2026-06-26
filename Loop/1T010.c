@@ -1,14 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 
-main()
+void main()
 {
-	int i=1,s;
-	
-	printf("ENTER NUMBER : ");
-	scanf("%d",&s);
-	
-	while(i<=s)
-	
-	printf("%d\t",i++);
+	int i = 1;
 
+	while (i <= 10)
+
+		printf("%d\t", i++);
 }

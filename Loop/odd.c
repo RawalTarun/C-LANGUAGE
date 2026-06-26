@@ -1,15 +1,18 @@
-#include<stdio.h>
+#include <stdio.h>
 
-main()
+void main()
 {
-	int n,i=1;
-	
+	int n, i = 1;
+
 	printf("ENTER ANY NUMBER:");
-	scanf("%d",&n);
-	
-	while(i<=n)
-	{ if(i%2!=0)
-	{   printf("%d\t",i);
-}
-	i++;}
+	scanf("%d", &n);
+
+	while (i <= n)
+	{
+		if (i % 2 != 0)
+		{
+			printf("%d\t", i);
+		}
+		i++;
+	}
 }

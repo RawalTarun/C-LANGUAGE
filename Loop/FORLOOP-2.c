@@ -1,11 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 
-main()
+void main()
 {
-	int a=10;
-    
-	for(a=10;a>=1;a--)
+	int a = 10;
+
+	for (a = 10; a >= 1; a--)
 	{
-	printf("%d\t",a);
+		printf("%d\t", a);
 	}
 }

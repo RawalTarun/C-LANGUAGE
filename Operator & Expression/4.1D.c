@@ -1,17 +1,17 @@
-#include<stdio.h>
-main()
+#include <stdio.h>
+void main()
 {
-	int a,b,third;
-	
+	int a, b, third;
+
 	printf("enter a:");
-	scanf("%d",&a);
-	
+	scanf("%d", &a);
+
 	printf("enter b:");
-	scanf("%d",&b);
-	
-	third=a;
-	a=b;
-	
+	scanf("%d", &b);
+
+	third = a;
+	a = b;
+
 	printf("after swapping:");
-	printf("a=%d\nb=%d",a,b);	
+	printf("a=%d\nb=%d", a, third);
 }

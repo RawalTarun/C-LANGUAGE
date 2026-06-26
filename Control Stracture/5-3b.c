@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
 	int lang, service;
 	// dynamic project with switch case//
@@ -22,7 +22,7 @@ int main()
 		printf("press 3 for special recharge\n");
 		printf("ENTER YOUR CHOICE:");
 		scanf("%d", &service);
-
+		printf("\n\n");
 		switch (service)
 		{
 		case 1:
@@ -45,6 +45,8 @@ int main()
 		printf("ENTER YOUR CHOICE:");
 		scanf("%d", &service);
 
+		printf("\n\n");
+
 		switch (service)
 		{
 		case 1:
@@ -66,7 +68,7 @@ int main()
 		printf("special recharge maate 3 dabavo\n");
 		printf("ENTER YOUR CHOICE:");
 		scanf("%d", &service);
-
+		printf("\n\n");
 		switch (service)
 		{
 		case 1:

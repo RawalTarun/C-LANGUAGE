@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
     int size1, size2, size3;
     printf("ENTER YOUR 1st ARRAY ELEMANTS :");

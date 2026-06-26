@@ -1,16 +1,15 @@
-#include<stdio.h>
+#include <stdio.h>
 
-main()
+void main()
 {
-	int i=50;
-	
-	
+	int i = 50;
+
 	printf("HOW MANY TIME PRINT:");
-	scanf("%d",&i);
-	
-	while(i>=1)
+	scanf("%d", &i);
+
+	while (i >= 1)
 	{
-	printf("%d\t",i);
-	i--;
+		printf("%d\t", i);
+		i--;
 	}
 }

@@ -5,7 +5,7 @@ int main()
     char name[20];
 
     printf("ENTER YOUR NAME:");
-    scanf("%s", name);
+    scanf("%[^\n]", name);
 
     printf("\n\n");
 
